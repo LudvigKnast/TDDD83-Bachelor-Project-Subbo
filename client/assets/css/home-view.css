@@ -1,0 +1,8 @@
+.btn-outline-light:hover {
+    background-color: black
+    /* color: red */
+}
+.btn-outline-light:active {
+    background-color: red
+    /* color: red */
+}  
